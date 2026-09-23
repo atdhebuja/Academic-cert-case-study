@@ -30,7 +30,6 @@ The project connects governance with practical capability: defining a team's pur
 - [Project narrative](docs/case-study.md)
 - [Timeline and membership terminology](docs/timeline.md)
 - [Student internship program](docs/internship-program.md)
-- [Attribution and publication notes](RIGHTS_AND_ATTRIBUTION.md)
 
 ## Public verification
 [Trusted Introducer team directory](https://tf-csirt.org/trusted-introducer/directory/teams/ubt-cert/)
