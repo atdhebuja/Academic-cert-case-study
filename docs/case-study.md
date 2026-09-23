@@ -30,4 +30,4 @@ I prepared a March-June 2017 internship plan covering network and web assessment
 ## Evidence boundaries
 The supplied records do not establish a program budget, student completion count, number of resolved incidents or percentage improvement in risk. Those metrics are intentionally not claimed. Detailed policy versions, assessment evidence and approved technical diagrams can strengthen this case study when recovered.
 
-See the [evidence index](../evidence/README.md) and [timeline](timeline.md).
+See the [timeline](timeline.md).
