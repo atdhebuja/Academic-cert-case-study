@@ -1,29 +1,76 @@
-# UBT-CERT student internship program
-## Historical curriculum summary | March-June 2017
-Prepared by Atdhe Buja, UBT-CERT Manager.
+# UBT-CERT Student Internship Program
 
-The original Albanian title means "Activities planned during the internship at UBT-CERT." The document describes a four-month plan. The summary below groups visible subjects into understandable capability areas; it does not establish that every planned exercise was completed.
+**Program period:** March–June 2017
+**Program designer and supervisor:** Atdhe Buja, UBT-CERT Manager
+**Setting:** UBT-CERT, University for Business and Technology, Kosovo
 
-| Capability area | Subjects visible in the historical plan |
-| --- | --- |
-| Network reconnaissance and assessment | Footprinting, network scanning, asset discovery, enumeration and vulnerability assessment |
-| Traffic and host analysis | Packet analysis, network mapping, system monitoring, file and credential security concepts |
-| Web security | Web server and application assessment, Burp Suite, Acunetix, black/gray/white-box approaches |
-| Malware and phishing analysis | Malware research/analysis, IDA Pro, VirusTotal, phishing detection and defensive analysis |
-| Attack and defense exercises | Red-team and blue-team activities, analysis of attack techniques and proposed mitigations |
-| Reporting and governance | Security reports, guidance, CERT policy drafting, teamwork and comparison of international models |
-| Development and engagement | Web/mobile development topics, conferences, cyber exercises, Hack Days and Linux Day |
+## Overview
 
-The plan contains tools and exercises from 2017. Preserve that historical context rather than presenting it as a current recommended toolset. Any modern teaching adaptation should use authorized, isolated lab systems and focus on learning outcomes, evidence and mitigation.
+As part of developing UBT-CERT’s academic and practical cybersecurity capabilities, I designed a four-month internship program and supervised student learning activities in the CERT laboratory.
 
-## Evidence that can demonstrate delivery
-Add selected, permitted examples of attendance summaries, schedules, anonymous student reports, rubrics, exercise instructions and instructor feedback. Describe team size, contact hours or completion rates only when records support them.
+The program connected technical security exercises with research, reporting, teamwork, and policy development. It provided a structured setting for students to explore cybersecurity problems and develop recommendations.
 
-## How to present individual exhibits
-For each exercise or report, explain:
-1. The learning objective and historical date.
-2. My contribution as designer, instructor or supervisor.
-3. What the student or team produced.
-4. What the artifact demonstrates and what has been removed for publication.
+This page summarizes the historical internship plan. It describes the planned curriculum rather than asserting that every listed exercise was completed.
 
-Raw malware, credential dumps, student identities and internal operational configurations are not needed to demonstrate curriculum design or mentoring.
+## My Contribution
+
+* Designed the internship curriculum and planned practical activities.
+* Supervised student learning within the CERT laboratory.
+* Connected network, system, and application security topics with attack and defense exercises.
+* Included security reporting, research, and policy drafting alongside technical work.
+* Planned opportunities for participation in cybersecurity events and collaborative activities.
+
+## Curriculum
+
+| Area                              | Planned Topics and Activities                                                                                         |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Network reconnaissance            | Footprinting, network discovery, DNS queries, route tracing, and collection of publicly available information.        |
+| Network assessment                | Asset discovery, port scanning, service enumeration, vulnerability scanning, and network troubleshooting.             |
+| Host and system security          | System monitoring, credential security concepts, file analysis, and examination of host security weaknesses.          |
+| Network traffic analysis          | Packet inspection, network topology analysis, and examination of interception and spoofing techniques.                |
+| Web security                      | Web server and application assessment, including black-box, gray-box, and white-box testing approaches.               |
+| Malware and phishing analysis     | Malware research and analysis, identification of suspicious behavior, and phishing detection.                         |
+| Attack and defense exercises      | Red-team and blue-team activities, analysis of attack techniques, and development of defensive recommendations.       |
+| Security reporting and governance | Preparation of security reports, guidance, and CERT policy documents; teamwork and review of international practices. |
+| Application development           | Web and mobile application development topics.                                                                        |
+| Professional engagement           | Conferences, cyber exercises, Hack Days, and Linux Day activities.                                                    |
+
+## Selected Tools in the Historical Plan
+
+The curriculum referenced tools including:
+
+* **Network discovery and assessment:** Nmap, Nessus, and GFI LANguard.
+* **Traffic analysis:** Wireshark.
+* **Web application assessment:** Burp Suite and Acunetix.
+* **Security testing:** Metasploit Framework.
+* **Malware analysis:** IDA Pro and VirusTotal.
+* **Phishing detection:** Netcraft and PhishTank.
+
+These examples reflect the 2017 plan and are included to document its technical scope. They are not presented as a current recommended toolset.
+
+## Educational Approach
+
+The program brought together three areas of cybersecurity practice:
+
+1. **Technical investigation:** examining networks, systems, applications, and suspicious activity.
+2. **Analysis and communication:** interpreting observations and preparing findings, solutions, and recommendations.
+3. **Operational responsibility:** connecting technical work with CERT policies, reporting practices, and collaboration.
+
+The inclusion of both attack and defense topics was intended to help students connect security weaknesses with detection and mitigation. Reporting and policy activities emphasized the importance of communicating technical findings within an organizational context.
+
+## Relationship to CERT Development
+
+The internship formed part of the broader effort to establish UBT-CERT as an academic cybersecurity capability. The laboratory supported practical learning alongside the team’s work on governance, information protection, incident handling, and international collaboration.
+
+This work demonstrates my experience in curriculum design, technical mentoring, laboratory program development, and connecting cybersecurity education with operational practices.
+
+## Historical Scope
+
+This summary is based on the March–June 2017 internship plan, originally titled in Albanian “Activities planned during the internship at UBT-CERT.” It documents the historical program and does not describe current UBT-CERT training or operations.
+
+## Related Pages
+
+* [Case study overview](../README.md)
+* [Project narrative](case-study.md)
+* [Governance, policies, and procedures](policy-development.md)
+* [Project timeline](timeline.md)
