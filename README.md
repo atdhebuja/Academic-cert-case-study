@@ -1,9 +1,19 @@
-# Establishing and Leading Academic CERT
-## An academic CERT leadership case study | Dr. Atdhe Buja | 2016-2018
+# Establishing and Leading UBT-CERT
 
-This personal portfolio documents my work establishing and leading UBT-CERT at the University for Business and Technology in Kosovo. It covers cybersecurity strategy, membership preparation, policy development, risk analysis, laboratory development and student practical training.
+### Academic CERT Leadership Case Study | Dr. Atdhe Buja | 2016–2018
 
-This is a retrospective account of my contribution, not an official UBT-CERT repository or current incident-reporting channel. Institutional milestones were achieved through organizational and team effort.
+I founded and led UBT-CERT at the University for Business and Technology in Kosovo, developing its cybersecurity strategy, governance documentation, laboratory capability, and student internship program.
+
+My work included policy drafting and implementation, organizational risk assessment, and coordination of the preparation process supporting FIRST membership and Trusted Introducer recognition.
+
+Key milestones during my tenure included:
+
+* Trusted Introducer listing in August 2016.
+* A CERT laboratory operating from March 2017.
+* FIRST membership beginning in November 2017.
+* Trusted Introducer accreditation in August 2018.
+
+This personal case study describes my contribution alongside the work of colleagues, institutional leadership, and external partners.
 
 ## Project at a glance
 | Area | Summary |
