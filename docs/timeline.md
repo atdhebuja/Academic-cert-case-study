@@ -1,27 +1,60 @@
-# Timeline and terminology
+# UBT-CERT Establishment and Development Timeline
 
-| Date | Event | Evidence |
-| --- | --- | --- |
-| 1 May 2016 | Team established | Trusted Introducer directory |
-| 8 August 2016 | Listing candidate | Historical directory screenshot supplied by Atdhe Buja |
-| 30 August 2016 | Listed by Trusted Introducer | Directory history |
-| December 2016-September 2017 | Ten-month policy and membership preparation period addressing 29 prerequisites | Historical Albanian report excerpt |
-| March 2017 | Laboratory operating | UBT-CERT introduction, 24 May 2017 |
-| March-June 2017 | Planned four-month internship | Internship curriculum screenshots |
-| November 2017 | FIRST membership | 2018 certificate; historical report and directory |
-| 20 June 2018 | TI accreditation candidate | Directory history |
-| 1 August 2018 | TI accreditation | Directory history |
-| September 2018 | End of personal CERT Manager tenure | Supplied personal role description |
+**Period covered:** 2016–2018
+**My role:** Founder and CERT Manager
 
-## Date reconciliation
-The report gives 15 November 2017 for FIRST membership; the directory gives 1 November 2017. The certificate states November 2017 without a day. Use the month/year until an acceptance letter resolves the discrepancy.
+This timeline summarizes the establishment of UBT-CERT, development of its laboratory and student internship program, and progression through Trusted Introducer recognition and FIRST membership during my tenure.
 
-The role screenshot gives May 2016 as the appointment start, while the reviewed resume gives June 2016. Team establishment and personal appointment dates may differ. Use employment or appointment records to resolve this before presenting an exact personal start month.
+The milestones reflect organizational achievements supported by my leadership, institutional support, team contributions, and external partners.
 
-## Terms to preserve
-- TI listing, accreditation and certification are different statuses. This record supports listing and accreditation, not TI certification.
-- FIRST membership belongs to the team. It is not a personal professional certification for its manager.
-- The 2018 certificate confirms historical good standing for that year; it does not independently certify current standing.
-- The laboratory and institution's later activities should not automatically be attributed to a former manager.
+## Milestones
 
-Source: https://tf-csirt.org/trusted-introducer/directory/teams/ubt-cert/ (reviewed 22 September 2026).
+| Date or Period               | Milestone                                                                                                                     | Historical Source                                            |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 1 May 2016                   | UBT-CERT established.                                                                                                         | Trusted Introducer team directory.                           |
+| 8 August 2016                | UBT-CERT recorded as a Trusted Introducer listing candidate.                                                                  | Retained historical directory screenshot.                    |
+| 30 August 2016               | UBT-CERT listed by Trusted Introducer.                                                                                        | Trusted Introducer directory history.                        |
+| December 2016–September 2017 | Ten-month preparation effort covering policy drafting, implementation, and work addressing 29 FIRST membership prerequisites. | Historical project report.                                   |
+| March 2017                   | CERT laboratory operating.                                                                                                    | UBT-CERT introduction presentation dated 24 May 2017.        |
+| March–June 2017              | Four-month student internship program planned for the CERT laboratory.                                                        | Historical internship curriculum.                            |
+| November 2017                | UBT-CERT became a FIRST member.                                                                                               | FIRST membership certificate and historical project records. |
+| 20 June 2018                 | UBT-CERT became a Trusted Introducer accreditation candidate.                                                                 | Trusted Introducer directory history.                        |
+| 1 August 2018                | UBT-CERT accredited by Trusted Introducer.                                                                                    | Trusted Introducer directory history.                        |
+| September 2018               | My tenure as UBT-CERT Manager concluded.                                                                                      | Professional experience record.                              |
+
+## Membership and Recognition
+
+### Trusted Introducer
+
+The historical record shows progression through listing candidacy, listing, accreditation candidacy, and accreditation.
+
+Listing, accreditation, and certification are distinct statuses. This case study documents UBT-CERT’s listing and accreditation milestones.
+
+[View the Trusted Introducer directory entry](https://tf-csirt.org/trusted-introducer/directory/teams/ubt-cert/).
+
+### FIRST
+
+The 2018 FIRST certificate confirms that UBT-CERT had been a member since November 2017 and was in good standing for 2018.
+
+The membership milestone is recorded here at month-level precision because historical sources differ on the exact November date. FIRST membership applies to the team; my contribution was leading the preparation and coordination supporting that outcome.
+
+## Policy and Membership Preparation
+
+The historical report records a ten-month preparation period addressing 29 FIRST membership prerequisites.
+
+The recovered policy inventory separately lists six TI-related entries and 22 FIRST-related entries, with overlapping subjects. These entries include policies, procedures, plans, and organizational documents; they are not a one-to-one reconstruction of the 29 prerequisites.
+
+[View the governance, policy, and procedure inventory](policy-development.md).
+
+## Historical Scope
+
+This timeline covers my 2016–2018 involvement. It does not attribute subsequent team activities to me or represent the institution’s current operational status.
+
+The team’s establishment date is an organizational milestone and is recorded separately from my personal appointment dates.
+
+## Related Pages
+
+* [Case study overview](../README.md)
+* [Project narrative](case-study.md)
+* [Student internship program](internship-program.md)
+* [Governance, policies, and procedures](policy-development.md)
