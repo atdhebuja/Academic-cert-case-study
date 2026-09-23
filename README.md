@@ -23,6 +23,16 @@ This is a retrospective account of my contribution, not an official UBT-CERT rep
 - Prepared CTF scenarios and supported the laboratory infrastructure and network security configuration.
 - Designed student internship activities combining technical exercises, research, security reporting and policy drafting.
 
+## Governance and Policy Development
+
+I drafted and implemented governance documents, security policies, and operational procedures supporting UBT-CERT’s preparation for Trusted Introducer recognition and FIRST membership.
+
+The work covered information classification and protection, secure communication, incident reporting and response, organizational structure, physical and network security, inter-team cooperation, and professional development.
+
+The recovered inventory documents six TI-related entries and 22 FIRST-related entries, including subjects shared across both preparation processes.
+
+[View the governance, policy, and procedure inventory](docs/policy-development.md).
+
 ## Why this work matters
 The project connects governance with practical capability: defining a team's purpose, establishing a laboratory, developing policies, coordinating external recognition and creating a learning environment for students. The resulting portfolio demonstrates security program development, stakeholder coordination, documentation and technical education.
 
