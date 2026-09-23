@@ -30,7 +30,6 @@ The project connects governance with practical capability: defining a team's pur
 - [Project narrative](docs/case-study.md)
 - [Timeline and membership terminology](docs/timeline.md)
 - [Student internship program](docs/internship-program.md)
-- [Sources and evidence limitations](evidence/README.md)
 - [Attribution and publication notes](RIGHTS_AND_ATTRIBUTION.md)
 
 ## Public verification
