@@ -54,7 +54,7 @@ The project connects governance with practical capability: defining a team's pur
 ## Public verification
 [Trusted Introducer team directory](https://tf-csirt.org/trusted-introducer/directory/teams/ubt-cert/)
 
-The public directory verifies organizational milestones, not the attribution of every task to an individual. The personal role narrative is supported by my account and the historical materials described in the evidence index. New narrative pages are retrospective summaries prepared in 2026; they are not original 2017 policies or an official FIRST application checklist.
+The Trusted Introducer directory records UBT-CERT’s establishment and recognition milestones. The narrative in this repository summarizes my historical work using retained project documentation, presentations, and the policy inventory. These pages were prepared retrospectively in 2026 and do not represent the team’s current operational procedures.
 
 ## Professional links
 [GitHub](https://github.com/atdhebuja) | [Website](https://atdheb.com) | [LinkedIn](https://linkedin.com/in/atdhebuja)
