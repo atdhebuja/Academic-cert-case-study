@@ -19,7 +19,7 @@ The 29-item count is a historical project figure. It does not mean 29 separate p
 My role description records three phases: preparation of the environment; placement of devices and requirements/acceptance work; and network device configuration, security measures and adaptation of Hacking Lab infrastructure. The May 2017 presentation states that the laboratory had been operating since March 2017. I also prepared CTF scenarios and supporting infrastructure.
 
 ### Student development
-I prepared a March-June 2017 internship plan covering network and web assessment, traffic analysis, malware-analysis topics, attack/defense exercises, reporting and policy work. The supplied plan establishes the planned curriculum. My account describes delivery of internships; attendance, completion and outcomes should be supported by additional records before quantified claims are added.
+I designed the March–June 2017 internship program and supervised student learning activities in the CERT laboratory. The curriculum covered network and web security assessment, traffic analysis, malware-analysis topics, attack and defense exercises, security reporting, and policy development. The internship page summarizes the planned curriculum; it does not claim that every listed exercise was completed.
 
 ## Outcomes supported by the available evidence
 - FIRST membership from November 2017, with good standing for 2018 confirmed by the supplied certificate.
@@ -27,7 +27,7 @@ I prepared a March-June 2017 internship plan covering network and web assessment
 - A CERT laboratory documented as operating in March 2017.
 - A structured four-month internship plan attributed to Atdhe Buja as CERT Manager.
 
-## Evidence boundaries
-The supplied records do not establish a program budget, student completion count, number of resolved incidents or percentage improvement in risk. Those metrics are intentionally not claimed. Detailed policy versions, assessment evidence and approved technical diagrams can strengthen this case study when recovered.
+## Scope
+This case study focuses on establishing the CERT, developing its governance and operating documentation, preparing for international membership, and supporting student practical learning. It summarizes historical work rather than current UBT-CERT operations.
 
 See the [timeline](timeline.md).
