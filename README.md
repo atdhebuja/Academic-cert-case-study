@@ -46,6 +46,22 @@ The recovered inventory documents six TI-related entries and 22 FIRST-related en
 ## Why this work matters
 The project connects governance with practical capability: defining a team's purpose, establishing a laboratory, developing policies, coordinating external recognition and creating a learning environment for students. The resulting portfolio demonstrates security program development, stakeholder coordination, documentation and technical education.
 
+## Laboratory and Student Activities
+
+The photographs below document the UBT-CERT laboratory and student
+internship activities from my tenure as founder and CERT Manager.
+
+![UBT-CERT laboratory entrance](assets/lab/cert-lab-entrance.jpg)
+
+*Entrance to the UBT-CERT laboratory.*
+
+![Students working together at a laboratory workstation](assets/internship/student-collaboration.jpg)
+
+*Student collaboration during the internship program I designed and supervised.*
+
+Further details: [laboratory development](docs/case-study.md) and
+[student internship program](docs/internship-program.md).
+
 ## Explore the case study
 - [Project narrative](docs/case-study.md)
 - [Timeline and membership terminology](docs/timeline.md)
