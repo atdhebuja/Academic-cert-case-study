@@ -92,3 +92,14 @@ The numbered references above are preserved from the recovered inventory. They a
 References to ISO/IEC 27001, ISO/IEC 27002, and ITIL describe the foundations used in the work; they do not constitute a claim of organizational certification.
 
 This page summarizes historical work undertaken at UBT-CERT. It does not reproduce internal operational policies or describe the team’s current procedures.
+
+## Selected Policy Excerpt
+
+[Information classification and protection](information-classification-excerpt.md)
+provides a sanitized, paraphrased sample based on the retained
+classification policy and protection matrix.
+
+The source archive contains documents with differing levels of
+completeness. The inventory records the work areas addressed; it
+should not be read as confirmation that every surviving file is
+a final, signed policy.
