@@ -68,6 +68,19 @@ This work demonstrates my experience in curriculum design, technical mentoring, 
 
 This summary is based on the March–June 2017 internship plan, originally titled in Albanian “Activities planned during the internship at UBT-CERT.” It documents the historical program and does not describe current UBT-CERT training or operations.
 
+## Internship Photographs
+
+These photographs document student participation in the UBT-CERT
+internship activities I designed and supervised.
+
+![Students collaborating at a CERT laboratory workstation](../assets/internship/student-collaboration.jpg)
+
+*Students working together at a laboratory workstation.*
+
+![Student working with a computer and printed materials](../assets/internship/student-practical-work.jpg)
+
+*Practical student work using a computer and supporting materials.*
+
 ## Related Pages
 
 * [Case study overview](../README.md)
