@@ -43,6 +43,17 @@ The recovered inventory documents six TI-related entries and 22 FIRST-related en
 
 [View the governance, policy, and procedure inventory](docs/policy-development.md).
 
+## Selected Policy Sample
+
+A sanitized historical excerpt illustrates my work on information
+classification, individual access accountability, third-party
+confidentiality, and differentiated protection levels.
+
+[Read the information classification and protection excerpt](docs/information-classification-excerpt.md).
+
+The sample is a clearly labeled editorial adaptation of retained
+historical documents.
+
 ## Why this work matters
 The project connects governance with practical capability: defining a team's purpose, establishing a laboratory, developing policies, coordinating external recognition and creating a learning environment for students. The resulting portfolio demonstrates security program development, stakeholder coordination, documentation and technical education.
 
