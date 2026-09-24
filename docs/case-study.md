@@ -6,6 +6,16 @@ UBT-CERT was established within a university setting. The May 2017 introduction 
 ## My role
 As CERT Manager, I led work spanning strategy, team and laboratory establishment, membership preparation, organizational risk analysis and student training. This account describes my leadership contribution while recognizing that organizational approval, partner support and team delivery were also necessary.
 
+As founder and CERT Manager, I led a three-person CERT team, with
+responsibility for management, coordination, and communication.
+The team combined technical responsibilities across systems,
+web technologies, penetration testing, training, and forensics.
+
+My work covered cybersecurity strategy, team and laboratory
+establishment, international membership preparation, organizational
+risk analysis, and student training. Delivery involved collaboration
+with institutional leadership, colleagues, and external partners.
+
 ## Workstreams
 ### Strategy and governance
 I led development of the cybersecurity strategy supporting creation of the CERT. The work included defining direction, drafting and implementing policies, identifying organizational risks, building a risk register and planning mitigation. My historical role description refers to ISO 27001 and ITIL alignment; this is not a claim that the organization held ISO certification or underwent a conformity assessment.
