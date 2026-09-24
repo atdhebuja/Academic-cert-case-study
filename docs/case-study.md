@@ -18,6 +18,21 @@ The 29-item count is a historical project figure. It does not mean 29 separate p
 ### CERT laboratory and exercises
 My role description records three phases: preparation of the environment; placement of devices and requirements/acceptance work; and network device configuration, security measures and adaptation of Hacking Lab infrastructure. The May 2017 presentation states that the laboratory had been operating since March 2017. I also prepared CTF scenarios and supporting infrastructure.
 
+## Laboratory Photographs
+
+I led the establishment of the CERT laboratory, including environment
+preparation, equipment coordination, network configuration, and security
+measures. These photographs document the physical setting associated
+with that work.
+
+![UBT-CERT laboratory entrance and signage](../assets/lab/cert-lab-entrance.jpg)
+
+*Laboratory entrance and UBT-CERT signage.*
+
+![Workstation and equipment in the UBT-CERT laboratory](../assets/lab/cert-lab-workstation.jpg)
+
+*Workstation and equipment within the CERT laboratory.*
+
 ### Student development
 I designed the March–June 2017 internship program and supervised student learning activities in the CERT laboratory. The curriculum covered network and web security assessment, traffic analysis, malware-analysis topics, attack and defense exercises, security reporting, and policy development. The internship page summarizes the planned curriculum; it does not claim that every listed exercise was completed.
 
