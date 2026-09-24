@@ -25,6 +25,17 @@ A historical Albanian report excerpt records a ten-month period from December 20
 
 The 29-item count is a historical project figure. It does not mean 29 separate policies, and this portfolio does not reproduce or claim to define FIRST's current requirements.
 
+### Incident tracking and coordination
+
+UBT-CERT used Request Tracker for Incident Response (RTIR) to
+support incident tracking and coordination. The historical
+operational documentation describes correlating incident reports,
+identifying related reports, and managing communication with
+reporters, collaborating security teams, and internal stakeholders.
+
+Access to the tracking system was restricted to the CERT team.
+My role covered team management, coordination, and communication.
+
 ### CERT laboratory and exercises
 My role description records three phases: preparation of the environment; placement of devices and requirements/acceptance work; and network device configuration, security measures and adaptation of Hacking Lab infrastructure. The May 2017 presentation states that the laboratory had been operating since March 2017. I also prepared CTF scenarios and supporting infrastructure.
 
