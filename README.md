@@ -19,6 +19,8 @@ This personal case study describes my contribution alongside the work of colleag
 | Area | Summary |
 | --- | --- |
 | Role | CERT Manager; founder and establishment lead, as described in my personal account |
+| Team | Three-person CERT team, including the manager |
+| Incident tracking | RTIR for incident tracking, report correlation, and stakeholder communication |
 | Context | Academic CERT serving a university community |
 | Membership preparation | Ten-month effort, December 2016-September 2017, covering policy drafting/implementation and 29 prerequisites, documented in a historical report excerpt |
 | FIRST milestone | Team membership since November 2017, supported by the supplied 2018 certificate |
