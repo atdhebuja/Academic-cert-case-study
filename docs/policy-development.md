@@ -50,6 +50,11 @@ The inventory below summarizes the historical documents and topics covered. Titl
 | 2.1                  | Information Classification   |
 | 2.2                  | Information Protection       |
 | 2.4                  | Records Destruction          |
+| 2.5 | Information Dissemination |
+| 2.6 | Access to Information |
+| 2.7 | Appropriate Use of CERT Systems |
+| 2.8 | Security Event and Incident Definitions |
+| 2.9 | Incident Handling Policy |
 | 2.10                 | Cooperation with Other Teams |
 
 ### Facilities, infrastructure, and secure communication
