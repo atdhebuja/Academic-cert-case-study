@@ -81,6 +81,22 @@ internship activities I designed and supervised.
 
 *Practical student work using a computer and supporting materials.*
 
+## Example of Student Work
+
+This report documents practical activities completed during the
+first two weeks of the UBT-CERT internship. Dated April 18, 2017,
+it includes explanations, screenshots, and recommendations related
+to network discovery, vulnerability scanning, system inspection,
+and traffic analysis.
+
+The report was prepared collaboratively by student interns and
+credits Atdhe Buja, CERT Manager, for assistance. It is presented
+as historical student work, with the original Albanian language
+preserved.
+
+- [English overview](internship-student-work.md)
+- [Student report in Albanian — reviewed public copy](../assets/internship/ubt-cert-internship-weeks-01-02-2017-albanian.pdf)
+
 ## Related Pages
 
 * [Case study overview](../README.md)
