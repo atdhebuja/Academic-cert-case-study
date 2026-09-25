@@ -62,7 +62,8 @@ with that work.
 I designed the March–June 2017 internship program and supervised student learning activities in the CERT laboratory. The curriculum covered network and web security assessment, traffic analysis, malware-analysis topics, attack and defense exercises, security reporting, and policy development. The internship page summarizes the planned curriculum; it does not claim that every listed exercise was completed.
 
 ## Outcomes supported by the available evidence
-- FIRST membership from November 2017, with good standing for 2018 confirmed by the supplied certificate.
+- - FIRST membership from November 2017, recorded in the
+  [Trusted Introducer directory](https://tf-csirt.org/trusted-introducer/directory/teams/ubt-cert/).
 - Trusted Introducer listing and subsequent accreditation recorded in its public directory.
 - A CERT laboratory documented as operating in March 2017.
 - A structured four-month internship plan attributed to Atdhe Buja as CERT Manager.
