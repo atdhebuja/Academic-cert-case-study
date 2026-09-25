@@ -1,4 +1,4 @@
-# Establishing and Leading UBT-CERT
+# Establishing and Leading Academia CERT
 
 ### Academic CERT Leadership Case Study | Dr. Atdhe Buja | 2016–2018
 
