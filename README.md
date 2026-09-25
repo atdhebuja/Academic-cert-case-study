@@ -87,6 +87,8 @@ Further details: [laboratory development](docs/case-study.md) and
 - [Project narrative](docs/case-study.md)
 - [Timeline and membership terminology](docs/timeline.md)
 - [Student internship program](docs/internship-program.md)
+- [Student work sample and English overview](docs/internship-student-work.md)
+- [Selected policy excerpt](docs/information-classification-excerpt.md)
 
 ## Public verification
 [Trusted Introducer team directory](https://tf-csirt.org/trusted-introducer/directory/teams/ubt-cert/)
