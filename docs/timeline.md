@@ -40,9 +40,7 @@ The membership milestone is recorded here at month-level precision because histo
 
 ## Policy and Membership Preparation
 
-The historical report records a ten-month preparation period addressing 29 FIRST membership prerequisites.
-
-The recovered policy inventory separately lists six TI-related entries and 22 FIRST-related entries, with overlapping subjects. These entries include policies, procedures, plans, and organizational documents; they are not a one-to-one reconstruction of the 29 prerequisites.
+The historical report records a ten-month preparation period addressing 29 FIRST membership prerequisites. The recovered inventory covers TI- and FIRST-related policies,procedures, plans, and organizational documents, with overlapping subjects. It records the work areas addressed and is not a one-to-one reconstruction of the 29 historical membership prerequisites.
 
 [View the governance, policy, and procedure inventory](policy-development.md).
 
