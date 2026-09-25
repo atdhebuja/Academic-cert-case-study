@@ -35,6 +35,14 @@ This personal case study describes my contribution alongside the work of colleag
 - Prepared CTF scenarios and supported the laboratory infrastructure and network security configuration.
 - Designed student internship activities combining technical exercises, research, security reporting and policy drafting.
 
+### Leading the UBT-CERT Laboratory
+
+<img src="assets/lab/Unknown-6.jpg"
+     alt="Atdhe Buja in the UBT-CERT laboratory with its workstations"
+     width="640">
+
+*In the UBT-CERT laboratory that I helped establish and led as CERT Manager. My work connected laboratory development, cybersecurity governance, and practical student training.*
+
 ## Governance and Policy Development
 
 I drafted and implemented governance documents, security policies, and operational procedures supporting UBT-CERT’s preparation for Trusted Introducer recognition and FIRST membership.
