@@ -88,7 +88,7 @@ These documents formed part of the governance and operational preparation suppor
 
 The historical project report describes a ten-month preparation period, from December 2016 through September 2017, covering policy drafting, implementation, and work addressing 29 FIRST membership prerequisites.
 
-This recovered inventory contains six TI-related entries and 22 FIRST-related entries. Several subjects appear in both groups. The inventory is therefore a record of documented work areas rather than a one-to-one reconstruction of the 29 prerequisites.
+The recovered inventory covers TI- and FIRST-related policies,procedures, plans, and organizational documents, with overlapping subjects. It records the work areas addressed and is not a one-to-one reconstruction of the 29 historical membership prerequisites.
 
 ## Historical Context
 
