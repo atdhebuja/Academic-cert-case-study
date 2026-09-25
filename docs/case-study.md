@@ -54,6 +54,10 @@ with that work.
 
 *Workstation and equipment within the CERT laboratory.*
 
+![Atdhe Buja inside the UBT-CERT laboratory](../assets/lab/Unknown-7.jpg)
+
+*Inside the UBT-CERT laboratory during my tenure as CERT Manager.*
+
 ### Student development
 I designed the March–June 2017 internship program and supervised student learning activities in the CERT laboratory. The curriculum covered network and web security assessment, traffic analysis, malware-analysis topics, attack and defense exercises, security reporting, and policy development. The internship page summarizes the planned curriculum; it does not claim that every listed exercise was completed.
 
